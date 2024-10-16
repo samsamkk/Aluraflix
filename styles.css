@@ -5,3 +5,9 @@ margin: 0px;
 font-family:"Playfair Display",sans-serif;
 margin-bottom:100px;
 }
+header {
+    border-bottom: solid 2px rgb(37, 241, 10);
+    padding: 20px;
+    font-size: 35px;
+    color: rgb(42,122,88);
+}
